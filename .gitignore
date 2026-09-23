@@ -1,7 +1,0 @@
-*
-!*/
-!*.cs
-!.gitignore
-
-obj/
-bin/
